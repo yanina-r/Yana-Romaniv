@@ -14,4 +14,6 @@ Apple Inc. (AAPL),Amazon.com Inc. (AMZN),Johnson & Johnson (JNJ),Tesla Inc. (TSL
 3.Історична волатильність
 
 ---
+## Jupyter Notebook
+
 https://www.datacamp.com/datalab/w/d6d77573-9b18-45d3-bc1d-37fd9b7c169b/edit 
